@@ -1,0 +1,11 @@
+@import 'theme/variable' ;
+
+$primary: #e7ba9e;//asdfas
+$secondary: #434345;
+$dark: #f7853f;
+$light:#f5a16d;
+@import 'theme/style';
+@import 'theme/responsive';
+@import 'theme/customize';
+@import 'theme/theme-dark';
+@import 'theme/theme-rtl';
